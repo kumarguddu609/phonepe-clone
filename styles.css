@@ -344,9 +344,9 @@ header .navbar {
   position: relative;
 }
 .info {
-  display: flex;
-  justify-content: space-evenly;
-  width: 100%;
+  width: 50%;
+    text-align: center;
+    margin: 25px auto;
 }
 .info-1,
 .info-2,
