@@ -345,7 +345,7 @@ header .navbar {
 }
 .info {
   display: flex;
-    justify-content: space-evenly;
+  justify-content: space-evenly;
 }
 .info-1,
 .info-2,
